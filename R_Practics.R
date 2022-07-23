@@ -15,3 +15,4 @@ opBasic = function(a,b){
 }
 
 print(opBasic(3,4))
+print(opBasic(5,6))
